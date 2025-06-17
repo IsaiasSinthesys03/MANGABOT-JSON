@@ -2,6 +2,7 @@ namespace MiMangaBot.Domain;
 
 /// <summary>
 /// Representa la entidad principal de un Manga con sus caracteristicas clave.
+/// super duper comands
 /// </summary>
 public class Manga
 {

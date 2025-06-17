@@ -4,6 +4,7 @@ using static FuncExtensions; // Importa los metodos de extension directamente
 namespace MiMangaBot.Domain.Filters;
 
 /// <summary>
+/// super duper comands
 /// Define los criterios de filtrado para buscar mangas.
 /// </summary>
 public class MangaFilter

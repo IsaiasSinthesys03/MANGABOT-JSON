@@ -437,24 +437,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Braul\\.nuget\\packages\\": {}
+    "C:\\Users\\angua\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Braul\\csharp_api_mangasV2\\MiMangaBot\\MiMangaBot.csproj",
+      "projectUniqueName": "C:\\Users\\angua\\OneDrive\\Documentos\\Code\\Github\\Clonaciones\\MANGABOT-JSON\\MiMangaBot.csproj",
       "projectName": "MiMangaBot",
-      "projectPath": "C:\\Users\\Braul\\csharp_api_mangasV2\\MiMangaBot\\MiMangaBot.csproj",
-      "packagesPath": "C:\\Users\\Braul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Braul\\csharp_api_mangasV2\\MiMangaBot\\obj\\",
+      "projectPath": "C:\\Users\\angua\\OneDrive\\Documentos\\Code\\Github\\Clonaciones\\MANGABOT-JSON\\MiMangaBot.csproj",
+      "packagesPath": "C:\\Users\\angua\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\angua\\OneDrive\\Documentos\\Code\\Github\\Clonaciones\\MANGABOT-JSON\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Braul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\angua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -503,7 +510,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

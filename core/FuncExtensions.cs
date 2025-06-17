@@ -1,6 +1,7 @@
 /// <summary>
 /// Provee metodos de extension para combinar funciones booleanas (predicados).
 /// Util para construir filtros complejos de forma legible.
+/// super duper comands
 /// </summary>
 public static class FuncExtensions
 {
